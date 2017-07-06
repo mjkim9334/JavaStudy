@@ -1,5 +1,5 @@
 /**
- * Created by kmj on 17. 7. 6.
+ * Created by kmj on 17. 7. 6.  changed
 
  */
 class aaa
